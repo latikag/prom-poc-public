@@ -1,0 +1,5 @@
+com/example/timescaledb/WorkerThread.class
+com/example/timescaledb/SloError.class
+com/example/timescaledb/SloErrorRepository.class
+com/example/timescaledb/TimescaledbApplication.class
+com/example/timescaledb/RunThreadToSaveSLOError.class
